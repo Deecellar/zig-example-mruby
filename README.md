@@ -1,4 +1,4 @@
-#mruby <3 zig
+# mruby <3 zig
 It's a matter of manual tweaking one struct
 but once that's done, you are free to go
 
